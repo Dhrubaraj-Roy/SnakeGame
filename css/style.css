@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url("../david-clode-5uU8HSpfwkI-unsplash.jpg");
+    min-height: 100vh;
+}
